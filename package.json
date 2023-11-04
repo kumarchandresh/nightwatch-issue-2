@@ -1,0 +1,16 @@
+{
+  "name": "nightwatch-v2.6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node nightwatch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chromedriver": "^118.0.1",
+    "nightwatch": "^3.2.1"
+  }
+}
